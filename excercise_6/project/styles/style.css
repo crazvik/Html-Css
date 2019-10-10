@@ -1,0 +1,12 @@
+button {
+    background-color: darkblue;
+}
+p {
+    color: azure;
+}
+.myDiv {
+    background-color: darkolivegreen;
+}
+.myDiv>p {
+    color: cornflowerblue;
+}

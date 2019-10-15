@@ -1,0 +1,27 @@
+section {
+    width: 800px;
+    height: 600px;
+    margin: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+#box1 {
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+    background: #0000ff;
+    position: fixed;
+    bottom: 0;
+}
+#box2 {
+    width: 120px;
+    height: 120px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    background: #ff00ff;
+    position: relative;
+}
